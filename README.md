@@ -1,2 +1,2 @@
-# quilt-gradle
+# QuiltGradle
 An experimental prototype of QuiltGradle
